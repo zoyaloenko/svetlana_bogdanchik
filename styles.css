@@ -43,7 +43,7 @@ main {
 }
 
 .header__title {
-    font-size: 3.5rem;
+    font-size: 3rem;
     /* margin-left: 2rem; */
 }
 
@@ -65,7 +65,7 @@ main {
 a {
     text-decoration: none;
     color: rgb(58, 70, 142);
-
+    font-size: 1.9rem;
 }
 
 a:visited {
@@ -85,6 +85,8 @@ a:visited {
     max-width: 90%;
     max-height: 90%;
     object-fit: contain;
+    border-radius: 30px;
+
   }
 
 
